@@ -1,0 +1,18 @@
+* text=auto
+ 
+*.ksh text eol=lf
+*.bash text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+ 
+*.doc binary
+*.docx binary
+*.bmp binary
+*.gif binary
+*.jpg binary
+*.jar binary
+*.wrx binary
+*.xls binary
+*.xlsx binary
+*.pdf binary
